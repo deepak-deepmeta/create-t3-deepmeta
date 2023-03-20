@@ -1,11 +1,11 @@
 {
-  "name": "create-t3-app",
+  "name": "create-t3-app-deepmeta",
   "version": "7.8.0",
   "description": "Create web application with the t3 stack",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/t3-oss/create-t3-app.git",
+    "url": "https://github.com/deepak-deepmeta/create-t3-deepmeta.git",
     "directory": "cli"
   },
   "keywords": [
