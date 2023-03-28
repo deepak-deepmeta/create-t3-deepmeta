@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/95541290/184307358-ebf8be63-e434-49d9-8181-90269ad79599.png" width="130" alt="Logo for T3" />
 </p>
 
@@ -128,4 +128,5 @@ We 💖 contributors! Feel free to contribute to this project but **please read 
 [npm-url]: https://www.npmjs.com/package/create-t3-app
 [npm-image]: https://img.shields.io/npm/v/create-t3-app?color=0b7285&logoColor=0b7285
 [contribute-url]: https://github.com/t3-oss/create-t3-app/blob/main/CONTRIBUTING.md
-[contribute-image]: https://img.shields.io/badge/PRs-welcome-blue.svg
+[contribute-image]: https://img.shields.io/badge/PRs-welcome-blue.svg -->
+create-t3-app fork for DeepMeta
